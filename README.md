@@ -18,6 +18,11 @@ output in a video. Post the video on YouTube
 2. Share links of code (GitHub) and video (YouTube) as a post on 
 YOUR LinkedIn profile, not TSF Network.
 3. Submit the LinkedIn link in Task Submission Form when shared.
+
+
+
+
+
 #1
 Prediction using Unsupervised ML
 (Level - Beginner)
@@ -33,6 +38,10 @@ output in a video. Post the video on YouTube
 YOUR LinkedIn profile
 3. Submit the LinkedIn link in Task Submission Form when shared.
 4. Please read FAQs on how to submit the tasks.
+
+
+
+
 #2
 Exploratory Data Analysis - Retail
 (Level - Beginner)
@@ -49,6 +58,11 @@ audio explaining the charts and interpretations.
 1. Create the dashboards and/or storyboard and record it
 2. Upload the recording either on YouTube or LinkedIn
 3. Create a LinkedIn post as suggested in FAQs
+
+
+
+
+
 #3
 Exploratory Data Analysis - Terrorism
 (Level - Intermediate)
@@ -65,6 +79,12 @@ your audio explaining the charts and interpretations. Use images.
 2. Upload the recording on Youtube, share the link on LinkedIn
 3. Submit LinkedIn post link in Task Submission Form when shared
 4. Please read FAQs on how to submit the tasks.
+
+
+
+
+
+
 #4
 Exploratory Data Analysis - Sports
 (Level - Advanced)
@@ -83,6 +103,12 @@ images.
 2. Upload the recording on Youtube, share the link on LinkedIn
 3. Submit LinkedIn post link in Task Submission Form when shared
 4. Please read FAQs on how to submit the tasks.
+
+
+
+
+
+
 #5
 Prediction using Decision Tree 
 Algorithm
@@ -99,6 +125,13 @@ in a video. Post the video on YouTube
 LinkedIn profile
 3. Submit the LinkedIn link in Task Submission Form when shared.
 4. Please read FAQs on how to submit the tasks.
+
+
+
+
+
+
+
 #6
 Stock Market Prediction using 
 Numerical and Textual Analysis
@@ -113,7 +146,25 @@ sentimental analysis of news headlines
 combine the findings to create a hybrid model
 ● You are free to select a different stock to analyze and news dataset 
 as well while not changing the objective of the task.
+
+
+
+
+
+
 #7
+
+
+
+
+
+
+
+
+
+
+
+
 #8
 Timeline Analysis : Covid-19
 (Level - Advanced)
